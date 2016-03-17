@@ -1,0 +1,29 @@
+This is the list of images
+version of 17/03/2016 22:23:25
+
+001 SVG content originally.png	23.591	17/03/2016 20:42
+002 New File Before.png	7.849	17/03/2016 20:43	-a--
+003 SVG not recognized as HTML-XML.png	36.429	17/03/2016 20:45
+101 Choose Settings  -Highlighters Settings.png	9.321	17/03/2016 20:49
+102 Before Selecting first unassigned.png	24.997	17/03/2016 20:58
+102b Before Selecting first unassigned.png	21.696	17/03/2016 20:59
+103 Select Specification Tab.png	12.315	17/03/2016 21:00
+104 User Highlighters dropbox.png	12.546	17/03/2016 21:02
+104b User Highlighters dropbox- go to last element of list.png	13.271	17/03/2016 21:03
+104c User Highlighters dropbox- When SVG selected.png	13.595	17/03/2016 21:04
+104d User Highlighters dropbox- When SVG selected Then SVG Added in the Left column.png	7.722	17/03/2016 21:05
+105 preference of no real tabs and indent of 2 spaces.png	2.117	17/03/2016 21:07
+106 Press Apply.png	13.560	17/03/2016 21:07
+107 SVG is added as filter name after apply.png	13.381	17/03/2016 21:09
+108 Press OK.png	13.580	17/03/2016 21:09
+110 After Reboot - Syntax Hightlighting with default colours is applied.png	18.344	17/03/2016 21:12
+121 Change Keyword2 to BoldItalicPurple with lightgray background.png	15.429	17/03/2016 21:38
+121b Change Keyword2 to BoldItalicPurple with lightgray background.png	24.324	17/03/2016 21:39
+201 User Highlighter Choose.png	8.850	17/03/2016 21:46
+202 User Hightlighter definition before choosing SVG.png	22.243	17/03/2016 21:47
+203 Auto File Dialog Selector for SVG.png	35.709	17/03/2016 21:48
+204 User Hightlighter definition after having choosen SVG.png	29.869	17/03/2016 21:49
+205 modify comment style to HTML before.png	9.688	17/03/2016 21:54
+205b modify comment style to HTML After.png	9.751	17/03/2016 21:55
+206 example for keywords3.png	3.064	17/03/2016 21:56
+303 SVG now recognized as HTML-XML.png	36.173	17/03/2016 22:04
