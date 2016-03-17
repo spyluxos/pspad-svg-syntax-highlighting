@@ -121,9 +121,9 @@ Symbol=1FFFFFFF00FFFFFF000
 ```
 
 ### New file of the type *.svg
-You can at this moemnt create a new file, of the SVG type, but it will be empty.
+You can at this moment create a new file of the SVG type, but it will still be empty.
 
-In oredr to create an already filled in or typical version of an SVG file, youhave to create the PSPad\Template\default.svg file.
+In order to create an already filled-in, or typical, version of an SVG file, you have to create the PSPad\Template\default.svg file.
 A minimalistic and commented ```default.svg``` template could be as follows:
 
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
