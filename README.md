@@ -134,7 +134,7 @@ A minimalistic and commented ```default.svg``` template could be as follows:
    xmlns="http://www.w3.org/2000/svg"
    <!-- add xmlns:xlink if you want to use linking in your SVG -->
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   <!-- add size and veiwbox settings if required in your SVG -->
+   <!-- add size and viewbox settings if required in your SVG -->
    width="200" height="100" 
    viewBox="0 0 200 100"
    >
